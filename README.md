@@ -9,12 +9,16 @@ The dataset used for this project is the Fetal Health Classification Dataset fro
 The three classification algorithms used in this project are:
 ## Logistic Regression
 ![download (1)](https://user-images.githubusercontent.com/111365771/221899799-1c8ab492-23ac-411a-bfea-af531ecf6045.png)
+
 A linear classification algorithm that models the probability of the target variable using a logistic function. The model is trained by minimizing the cross-entropy loss between the predicted probabilities and the true labels.
 ## Support Vector Machine
+
 ![download (2)](https://user-images.githubusercontent.com/111365771/221900192-a698d3f8-c17a-4039-b9f8-caa8fce94c26.png)
+
 A non-linear classification algorithm that finds the best hyperplane to separate the data into different classes. The hyperplane is chosen to maximize the margin between the classes. The model is trained by solving a convex optimization problem.
 ## K-Nearest Neighbour
 ![0_ItVKiyx2F3ZU8zV5](https://user-images.githubusercontent.com/111365771/221900664-25f10184-a0a5-4580-ac58-b567d164228d.png)
+
 A non-parametric classification algorithm that predicts the class of a new data point based on the classes of its K nearest neighbors in the training data. The model is trained by storing the training data and computing the distances between data points.
 
 # Installation
