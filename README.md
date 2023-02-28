@@ -22,3 +22,27 @@ A non-linear classification algorithm that finds the best hyperplane to separate
 A non-parametric classification algorithm that predicts the class of a new data point based on the classes of its K nearest neighbors in the training data. The model is trained by storing the training data and computing the distances between data points.
 
 # Installation
+
+To run this project, you will need to have Python 3 and the following packages installed:
+
+->pandas
+
+->numpy
+
+->scikit-learn
+
+->oneDAL
+
+# Intel DevMesh
+This project was implemented using the oneDAL library from Intel DevMesh. oneDAL is an open-source library that provides optimized implementations of common machine learning algorithms for CPUs and GPUs. The library is written in C++ and provides Python bindings for easy integration into Python-based machine learning applications.
+
+# Results
+
+The performance of the three classification algorithms on the testing data is as follows:
+
+->Logistic Regression: 90.14% accuracy
+
+->SVM: 80.75% accuracy
+
+->KNN: 77.94% accuracy
+As we can see, logistic regression performs the best, with an accuracy of over 90%, while SVM and KNN perform worse, with accuracies of around 80% and 77%, respectively.
