@@ -1,5 +1,5 @@
 # Fetal Health Prediction using oneDAL Classification Algorithms
-This project is a machine learning application that predicts the health status of a fetus using three different classification algorithms: logistic regression, SVM, and KNN. The project uses the oneDAL library from Intel to implement the classification algorithms.
+# This project is a machine learning application that predicts the health status of a fetus using three different classification algorithms: logistic regression, SVM, and KNN. The project uses the oneDAL library from Intel to implement the classification algorithms.
 ![shutterstock_133423673](https://user-images.githubusercontent.com/111365771/221896792-e607c68e-df17-424b-b373-810a087dd9e5.jpg)
 
 # Dataset
